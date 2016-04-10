@@ -5,7 +5,7 @@
   , "dependencies": { "faye": ""}
   , "devDependencies" : {},
   "engines" : {
-    "node": "0.7.x"
+    "node": "0.6.x"
   }
 
 }
